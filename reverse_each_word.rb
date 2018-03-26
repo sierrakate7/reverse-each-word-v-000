@@ -1,6 +1,6 @@
 def reverse_each_word(" ")
-  "Strings are cool".split
+  " ".split
    string.collect do |word|
-     puts "#{Strings are cool}"
+     puts "#{" "}"
     end
   end 
